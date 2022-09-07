@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Exchanger-app/static/css/main.7822bff8.css",
+    "main.js": "/Exchanger-app/static/js/main.a2c2e67e.js",
+    "static/js/787.d4fc5d5e.chunk.js": "/Exchanger-app/static/js/787.d4fc5d5e.chunk.js",
+    "static/media/icons8-bbb-48.svg": "/Exchanger-app/static/media/icons8-bbb-48.5b6bb9445eeddcce8e42ad65b39677df.svg",
+    "index.html": "/Exchanger-app/index.html",
+    "main.7822bff8.css.map": "/Exchanger-app/static/css/main.7822bff8.css.map",
+    "main.a2c2e67e.js.map": "/Exchanger-app/static/js/main.a2c2e67e.js.map",
+    "787.d4fc5d5e.chunk.js.map": "/Exchanger-app/static/js/787.d4fc5d5e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7822bff8.css",
+    "static/js/main.a2c2e67e.js"
+  ]
+}
