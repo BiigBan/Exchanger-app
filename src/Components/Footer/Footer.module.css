@@ -1,0 +1,13 @@
+.footer{
+    height: 40px;
+    background: rgb(66, 66, 66);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.content {
+    font-size: 18px;
+}
+.content a {
+    color: #FFF;
+}
